@@ -28,7 +28,7 @@ Shoutout to [MGpai](https://github.com/mgpai22) and [nkz](https://x.com/nkzthecr
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/nocturne-consolidator.git
+git clone https://github.com/ggcaponetto/nocturne-consolidator.git
 cd nocturne-consolidator
 npm i
 npm run build
