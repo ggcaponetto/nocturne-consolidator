@@ -59,10 +59,12 @@ see ``input.sample.json`` for an example. **The recipientAddress is the address 
 
 ## Usage
 
+Powsershell:
 ```powershell
 npx tsx src/index.ts --input-file input.json *>&1 | Tee-Object -FilePath output.log
 ```
 
+Linux/Bash:
 ```bash
 npx tsx src/index.ts --input-file input.json > output.log 2>&1 | tee output.log
 ```
