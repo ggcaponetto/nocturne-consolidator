@@ -37,7 +37,7 @@ npm run test:run
 
 ## Setup
 
-Create an `input.json` file in the root directory with the following structure:
+Create a `input.json` file in the root directory with the following structure:
 
 ```json
 {
