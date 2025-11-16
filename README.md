@@ -8,9 +8,16 @@ Simple utility to consolidate all your NIGHT into one address.
 
 This utility is free (no embedded donations) and open source. If you find this tool useful, consider supporting me with a donation:
 
-*Cardano Donation Address** `addr1...`
+#### Cardano/ADA Donation Address
+
+`addr1q9qeztx4dj4p3u9da75j37psg955ch97epr3sg5qt7m7t9kdg29j4u98m9zj52dqwdfc52y9sasscencvsldyzqu0ljqu6dtgr`
 
 Feel free to reach out for support on Discord (G-CELL / gcell8155). People donating will get priority support.
+
+## Prerequisites
+
+- Install [Node.js](https://nodejs.org/en/download)
+- Install [Git](https://git-scm.com/install/)
 
 ## Installation
 
@@ -63,6 +70,6 @@ first run or `status":409` subsequent runs (409 means the NIGHT has already been
 
 #### Credits
 
-Shoutout to MGpai and nkz for the nocturne miner. Consider dropping them an ADA donation as well!
+Shoutout to MGpai and nkz for the nocturne miner. Consider donating some ADA to them as well!
 
 ``addr1q9qeztx4dj4p3u9da75j37psg955ch97epr3sg5qt7m7t9kdg29j4u98m9zj52dqwdfc52y9sasscencvsldyzqu0ljqu6dtgr``
