@@ -1,6 +1,7 @@
 # nocturne-consolidator
 
-Simple utility to consolidate all your NIGHT into one address.
+Unofficial utility to consolidate all your NIGHT into one address for scavenger mine. This tool
+is taileored for users running multiple nocturne miners with different addresses. **Note that the official nocturne miner will have its own consolidation solution you want to consider using**. This is an alternative option for users who want to consolidate their NIGHT donations from multiple addresses. This project is not affiliated with the official nocturne miner.
 
 [https://www.midnight.gd/news/how-to-consolidate-allocations-from-multiple-addresses-for-scavenger-mine](https://www.midnight.gd/news/how-to-consolidate-allocations-from-multiple-addresses-for-scavenger-mine)
 
@@ -15,7 +16,7 @@ You can also reach out on X [ggcaponetto90](https://x.com/ggcaponetto90).
 
 ## Donations for nocturne miner developers
 
-Shoutout to [MGpai](https://github.com/mgpai22) and [nkz](https://x.com/nkzthecreator) for the nocturne miner. Note that the official nocturne miner will have its own consolidation solution. This script is an alternative option. Consider donating some ADA to them as well!
+Shoutout to [MGpai](https://github.com/mgpai22) and [nkz](https://x.com/nkzthecreator) for the nocturne miner. Consider donating some ADA to them as well!
 
 ``addr1qxke5fwhw46c36ygcndvc5vzgr0j76c2dkc3vf3j8hch4jc3hvjp9efhjw36k97q23nc9v6v8ctdunj2hjal76z79q4qntklr6``
 
