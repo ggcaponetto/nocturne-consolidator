@@ -11,6 +11,7 @@ This utility is free (no embedded donations) and open source. If you find this t
 `addr1q9qeztx4dj4p3u9da75j37psg955ch97epr3sg5qt7m7t9kdg29j4u98m9zj52dqwdfc52y9sasscencvsldyzqu0ljqu6dtgr`
 
 Feel free to reach out for support on Discord (G-CELL / gcell8155). People donating will get priority support.
+You can also reach out on X [ggcaponetto90](https://x.com/ggcaponetto90).
 
 ## Donations for nocturne miner developers
 
