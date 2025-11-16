@@ -16,7 +16,7 @@ Feel free to reach out for support on Discord (G-CELL / gcell8155). People donat
 
 Shoutout to [MGpai](https://github.com/mgpai22) and [nkz](https://x.com/nkzthecreator) for the nocturne miner. Note that the official nocturne miner will have its own consolidation solution. This script is an alternative option. Consider donating some ADA to them as well!
 
-``addr1q9qeztx4dj4p3u9da75j37psg955ch97epr3sg5qt7m7t9kdg29j4u98m9zj52dqwdfc52y9sasscencvsldyzqu0ljqu6dtgr``
+``addr1qxke5fwhw46c36ygcndvc5vzgr0j76c2dkc3vf3j8hch4jc3hvjp9efhjw36k97q23nc9v6v8ctdunj2hjal76z79q4qntklr6``
 
 ## Prerequisites
 
